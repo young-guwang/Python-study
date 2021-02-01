@@ -1,2 +1,2 @@
 # test1
-  파이썬
+  learning to Python.
